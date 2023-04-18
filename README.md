@@ -8,9 +8,10 @@ I started learning how to use R by working with the Palmer Penguins data set. We
 I began a exploratory analysis on the data set given on github to create visual representations of how food consumption correlates with c02 emissions. In the data set we have multiple categories of food and we are examining how each country has their own contribution to the c02 emissions. You can see my analysis [here](https://suzantaha.github.io/BioStatisticsAnalysis/FoodConsumptionCO2.html).
 
 
-## poster
+### The Epidemiology of the Influenza A Virus Applied to Multi Pen Pig Farms
+Over the summer of 2022, I was apart of a research program for undergraduates
+[Link to REU paper](https://suzan.taha.github.io/Epidemiology_of_The_Influenza_A_Virus_Applied_to_Multi_Pen_Pig_Farms (2).pdf)
+
+## REU poster
 
 [Link to REU Poster](https://suzantaha.github.io/Epidemiology of the Influenza A Virus Applied to Multi-Pen Pig Farms poster suzan and caleb.pdf)
-
-### The Epidemiology of the Influenza A Virus Applied to Multi Pen Pig Farms
-[Link to REU paper](https://suzan.taha.github.io/Epidemiology_of_The_Influenza_A_Virus_Applied_to_Multi_Pen_Pig_Farms (2).pdf)
