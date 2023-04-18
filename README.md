@@ -10,5 +10,4 @@ I began a exploratory analysis on the data set given on github to create visual 
 
 ## Poster
 
-[Link to REU Poster](Epidemiology of The Influenza A Virus 
-Applied to Multi-Pen Pig Farms.pdf)
+[Link to REU Poster](Epidemiology of the Influenza A Virus Applied to Multi-Pen Pig Farms poster suzan and caleb.pdf)
