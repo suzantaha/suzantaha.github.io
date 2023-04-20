@@ -15,3 +15,7 @@ Over the summer of 2022, I was apart of a research program for undergraduates
 ## REU poster
 
 [Link to REU Poster](https://suzantaha.github.io/Epidemiology of the Influenza A Virus Applied to Multi-Pen Pig Farms poster suzan and caleb.pdf)
+
+NYC squirrels 
+[here](https://suzantaha.github.io/NYCsquirrels.html)
+
