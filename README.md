@@ -17,7 +17,7 @@ The last exploratory analysis I completed was on a dataset from github focusing 
 In the second part of the BioInformatics course, we used R to mimic DNA replication and help us find the replication origin, specifically the DNAa box. In this code we create multiple functions that allow us to find the complementary strand, a certain number of nucleotides, how frequent they are seen. etc. If you are interested in learning more, click [here](https://suzantaha.github.io/Replication_Suzan_Taha.html).
 
 ## CO2 Emissions and Vehicles 
-In my regression course, I worked on a project that allowed me to develop a model to look at different vehicles and the CO2 emissions that they give off. We are dealing with multiple variables in this data set such as the amount of cylinders, engine size, vehicle type, fuel type, etc. I performed multiple tests in order to find one that fit best so that I could in return test my model. To learn more click [here](https://suzantaha.github.io/projectCO2.html).
+In my regression course, I worked on a project that allowed me to develop a model to look at different vehicles and the CO2 emissions that they give off. We are dealing with multiple variables in this data set such as the amount of cylinders, engine size, vehicle type, fuel type, etc. I performed multiple tests in order to find one that fit best so that I could in return test my model. To learn more click [here](https://suzantaha.github.io/projectCarbon.html).
 
 
 
