@@ -16,6 +16,11 @@ The last exploratory analysis I completed was on a dataset from github focusing 
 ## Replication DNA
 In the second part of the BioInformatics course, we used R to mimic DNA replication and help us find the replication origin, specifically the DNAa box. In this code we create multiple functions that allow us to find the complementary strand, a certain number of nucleotides, how frequent they are seen. etc. If you are interested in learning more, click [here](https://suzantaha.github.io/Replication_Suzan_Taha.html).
 
+## CO2 Emissions and Vehicles 
+In my regression course, I worked on a project that allowed me to develop a model to look at different vehicles and the CO2 emissions that they give off. We are dealing with multiple variables in this data set such as the amount of cylinders, engine size, vehicle type, fuel type, etc. I performed multiple tests in order to find one that fit best so that I could in return test my model. To learn more click [here](https://suzantaha.github.io/projectCO2.html).
+
+
+
 ## The Epidemiology of the Influenza A Virus Applied to Multi Pen Pig Farms
 Over the summer of 2022, I was apart of a research program for undergraduates with NSF at Elon and N&C state university. My partner and I focused on how the Influenza A Vrius spreads within multi-pen Pig farms. Influenza A virus is a major concern in pork production. Influenza does not only affect our swine markets around the world, but it also affects swine care-givers as well as the greater population. In this study, the focus is on the dynamics of swine herds in order to understand the spread of influenza. Understanding the epidemiology of influenza will further support efforts in decreasing infected swine populations and preventing an ongoing pandemic. MATLAB and ode45 have helped develop fully continuous mathematical models that represent a multi-pen pig farm. These models allow us to examine the differences in model dynamics between the populations of pigs separated by age, resulting in the use of one, two and four class models. Three basic SEIR models were constructed to understand the spread of influenza in swine herds. To learn more click [here](https://suzantaha.github.io/REUPAPER.pdf).
 
